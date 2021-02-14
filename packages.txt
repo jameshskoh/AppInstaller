@@ -1,0 +1,15 @@
+awscli
+curl
+dos2unix
+geoip
+grep
+hh
+htop
+jq
+links
+python3
+tldr
+tree
+unix2dos
+wget
+youtube-dl
